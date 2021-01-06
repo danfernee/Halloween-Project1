@@ -1,0 +1,32 @@
+h3{
+    font-family: 'Indie Flower', cursive;
+    color:red;
+}
+h1{
+    font-family: 'Nosifer', cursive;
+    color:red;
+}
+
+body{
+    background-color:black;
+    text-align:center;
+} 
+img{
+    border-radius:10%;
+}
+h2{ 
+    font-family: 'Creepster', cursive;
+    color:red;
+}
+h4{ 
+     
+    font-family: 'Eater', cursive;
+    color:white;
+}
+p{
+  font-family: 'Creepster', cursive;
+    color:purple;
+}
+body{
+    background-image:url("https://media.giphy.com/media/eoJY7gHANZ2iQ/giphy.gif");
+}
